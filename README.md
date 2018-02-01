@@ -52,7 +52,9 @@ Other than these years Norway’s market is quite mild a consistent.
 
 ## Authors
 
-* **Ujjwal Anand** - *Including all works* - [linkedin profile](https://www.linkedin.com/in/ujjwal-anand-653623151/)
+* **Ujjwal Anand** - *Includes coding* - [linkedin profile](https://www.linkedin.com/in/ujjwal-anand-653623151/)
+* **Abhishek Kumar** - *Includes coding* -
+* **Ujjwal Gupta** - *Data Management* -
 
 ## License
 
