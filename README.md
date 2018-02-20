@@ -72,19 +72,7 @@ Through the analysis, It states that sales of car is depending on inflation/defl
 ![Filtered data](https://github.com/ujjwalanand1997/Sales-predicting-model/blob/master/Analysis%20Images/error1.png?raw=true)
 ![Filtered data](https://github.com/ujjwalanand1997/Sales-predicting-model/blob/master/Analysis%20Images/error2.png?raw=true)
 
-
-### Prerequisites
-
-
-### Installing
-
-## Usage
-
-## Deployment
-
-
 ## Authors
-
 * **Ujjwal Anand** - *Includes coding as well as Data Management* - [linkedin profile](https://www.linkedin.com/in/ujjwal-anand-653623151/)
 * **Abhishek Kumar** - *Includes coding* -
 
