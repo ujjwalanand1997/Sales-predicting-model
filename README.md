@@ -40,6 +40,39 @@ Other than these years Norway’s market is quite mild a consistent.
 
 ![Inflation](https://github.com/ujjwalanand1997/Sales-predicting-model/blob/master/Analysis%20Images/inflation_bar.png?raw=true)
 
+## Diesel Cars in Total cars sold
+
+As We can see that Diesel Cars contribute a major share in Total car sold per year, but there from 2012 we are seeing a decrease in diesel model cars sold. 
+
+The Decrease may be seen due to coming of different concept cars like cars running in battery or there may be a cause that diesel models make more pollution.
+
+![Filtered data](https://github.com/ujjwalanand1997/Sales-predicting-model/blob/master/Analysis%20Images/diesel_sale.png?raw=true)
+
+## MODEL
+
+**Multiple linear regression** model is used to evaluate the datasets. Year, Inflation/Deflation, Diesel model sold as the independent variables and Total car sold as the dependent variable.
+
+The model is quite efficient also as it shows the efficiency greater than 75%(r2 value is 0.791).
+
+**ANALYSIS**
+The Graph is quite good and productive.
+
+![Filtered data](https://github.com/ujjwalanand1997/Sales-predicting-model/blob/master/Analysis%20Images/Analysed.png?raw=true)
+
+Through the analysis, It states that sales of car is depending on inflation/deflation in the country, also it depends on the diesel model cars provided by the car producing companies.
+
+**ERROR IN MODEL**
+
+**Causes of Error in Model**
+-The one year 2009, where our model is showing a large difference in our predicted data
+
+-Possible causes of error for that year:
+ -There is a deflation during 2009, which can be cause of less car sales in that year.
+
+![Filtered data](https://github.com/ujjwalanand1997/Sales-predicting-model/blob/master/Analysis%20Images/error1.png?raw=true)
+![Filtered data](https://github.com/ujjwalanand1997/Sales-predicting-model/blob/master/Analysis%20Images/error2.png?raw=true)
+
+
 ### Prerequisites
 
 
@@ -52,17 +85,12 @@ Other than these years Norway’s market is quite mild a consistent.
 
 ## Authors
 
-* **Ujjwal Anand** - *Includes coding* - [linkedin profile](https://www.linkedin.com/in/ujjwal-anand-653623151/)
+* **Ujjwal Anand** - *Includes coding as well as Data Management* - [linkedin profile](https://www.linkedin.com/in/ujjwal-anand-653623151/)
 * **Abhishek Kumar** - *Includes coding* -
-* **Ujjwal Gupta** - *Data Management* -
-
-## License
-
-This project is free to use and grow without any limitation.
 
 ## Acknowledgments
 
-* This whole idea was made by a friend during a trip.. So thanks to him.
+* This whole Model is made to get the concepts of Data Analysis.
 * I got much help from google.
-* Thanks to [Udacity.com](Udacity) to give such a handfull of tutorials free to use and learn.
+* Thanks to [Udemy.com](Udemy) to give such a handfull of tutorials free to use and learn.
 
